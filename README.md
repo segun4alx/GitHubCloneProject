@@ -1,11 +1,3 @@
-Branching, Making Changes, and Resolving Merge Conflicts
-
-
-
-
-
-
-
-
+# GitHubCloneProject
 
 Modification in main branch.
